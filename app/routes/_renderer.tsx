@@ -33,7 +33,10 @@ export default jsxRenderer(({ children, title, description }) => {
       <body class="main-container">
         <header class="bg-lime-500">
           <div class="max-w-screen-2xl mx-auto flex h-16 items-center justify-between px-6">
-            <a href="/" class="text-white text-base font-bold">
+            <a
+              href="https://sivchari.github.io/sivchari/"
+              class="text-white text-base font-bold"
+            >
               research!sivchari
             </a>
             <div class="flex items-center gap-2">
