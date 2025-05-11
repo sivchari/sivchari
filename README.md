@@ -7,7 +7,7 @@ You can find me [X](https://x.com/sivchari) and [LinkedIn](https://www.linkedin.
 
 🗣️
 
-Find the list of [research](https://github.com/sivchari/research)
+* Find the list of [research](https://github.com/sivchari/research)
 
 🤝
 
@@ -16,7 +16,7 @@ Find the list of [research](https://github.com/sivchari/research)
 
 👷
 
-* [Cluster API](https://github.com/kubernetes-sigs/cluster-api) contributor.
+* [Cluster API](https://github.com/kubernetes-sigs/cluster-api) reviewer.
 * [Kube API Linter](https://github.com/kubernetes-sigs/kube-api-linter) reviewer.
 * [Argo CD](https://github.com/argoproj/argo-cd) contributor.
 
