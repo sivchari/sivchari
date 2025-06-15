@@ -18,7 +18,7 @@ You can find me [X](https://x.com/sivchari) and [LinkedIn](https://www.linkedin.
 
 * [Cluster API](https://github.com/kubernetes-sigs/cluster-api) reviewer.
 * [Kube API Linter](https://github.com/kubernetes-sigs/kube-api-linter) reviewer.
-* [Argo CD](https://github.com/argoproj/argo-cd) member.
+* [Argo CD](https://github.com/argoproj/argo-cd) contributor.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sivchari/)
 I’m not actively looking for a new role, but I’m always open to hearing about interesting opportunities.
