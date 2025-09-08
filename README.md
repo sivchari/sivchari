@@ -22,10 +22,7 @@ You can find me [X](https://x.com/sivchari) and [LinkedIn](https://www.linkedin.
 
 🔨
 * [govalid](https://github.com/sivchari/govalid)
-* [gomu](https://github.com/sivchari/gomu)
-* [gofab](https://github.com/sivchari/gofab)
-* [e2e](https://github.com/sivchari/e2e)
-* [golden](https://github.com/sivchari/golden)
+
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sivchari/)
 I’m not actively looking for a new role, but I’m always open to hearing about interesting opportunities.
