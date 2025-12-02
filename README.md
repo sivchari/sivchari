@@ -12,13 +12,17 @@ You can find me [X](https://x.com/sivchari) and [LinkedIn](https://www.linkedin.
 🤝
 
 * [Go Conference](https://gocon.jp/)
-    * The main organizer of [Go Conference](https://gocon.jp)
+   * The main organizer of [Go Conference](https://gocon.jp)
+* [golang.tokyo](https://golangtokyo.github.io/)
 
 👷
 
-* [Argo CD](https://github.com/argoproj/argo-cd) contributor.
-* [Cluster API](https://github.com/kubernetes-sigs/cluster-api) reviewer.
-* [Kube API Linter](https://github.com/kubernetes-sigs/kube-api-linter) approver.
+* [Argo CD](https://github.com/argoproj/argo-cd) contributor
+* [Cluster API](https://github.com/kubernetes-sigs/cluster-api) reviewer
+* [Kube API Linter](https://github.com/kubernetes-sigs/kube-api-linter) approver
+
+🥇
+* [Kubernetes contributor award 2025 (SIG Cluster Lifecycle)](https://www.kubernetes.dev/community/awards/2025/#cluster-lifecycle)
 
 🔨
 * [e2e](https://github.com/sivchari/e2e)
