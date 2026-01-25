@@ -30,7 +30,6 @@ You can find me [X](https://x.com/sivchari) and [LinkedIn](https://www.linkedin.
 * [gofab](https://github.com/sivchari/gofab)
 * [gonverter](https://github.com/sivchari/gonverter)
 * [govalid](https://github.com/sivchari/govalid)
-* [keel](https://github.com/sivchari/keel)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sivchari/)
 I’m not actively looking for a new role, but I’m always open to hearing about interesting opportunities.
